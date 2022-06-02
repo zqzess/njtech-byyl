@@ -1,0 +1,1 @@
+int$s,$qml,$lpw1,$g216;$s=1;$qml=3;$lpw1=84;$g216=32;$qml=($g216+1)*($qml+5)*($s+482)+1; if($g216+730>=$g216)thenbegin$qml=$qml*89;$s=$lpw1+18;end;else$g216=$qml+9;while($lpw1<$g216*6)do$s=$qml+46;
